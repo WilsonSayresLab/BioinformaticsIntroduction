@@ -1,4 +1,4 @@
-# BioinformaticsIntroduction
+# Bioinformatics Introduction
 
 Here we compile our best practices for introducing new trainees to computational biology.
 
