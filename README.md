@@ -40,4 +40,9 @@ http://linuxcommand.org/learning_the_shell.php
 UNIX Tutorial for Beginners
 http://www.ee.surrey.ac.uk/Teaching/Unix/
 
-4. 
+## 2. Introduction to python
+There are many different languages that we can write code or scripts in for analyzing our data. One of the most commonly used langauges in bioinfomatics is python. The tutorial at codecademy can help you get started with learning python syntax, though there are many other places to learn coding in python.
+
+		https://www.codecademy.com/learn/python
+
+
