@@ -49,8 +49,17 @@ There are many different languages that we can write code or scripts in for anal
 		https://www.codecademy.com/learn/python
 
 ## 3. Introduction to R
-Other than working within the terminal (command line), and writing codes in python, the other key component to doing bioinformatics is being able to do statistics. For our lab, nearly all the statistical analysis we do will be in R. R is a "free software environment for statistical computing and graphics": https://www.r-project.org. Similar to python, there are many tutorials for R, but one that many trainees in the lab have found useful is: 
+Other than working within the terminal (command line), and writing codes in python, the other key component to doing bioinformatics is being able to do statistics. For our lab, nearly all the statistical analysis we do will be in R. R is a "free software environment for statistical computing and graphics": https://www.r-project.org. 
 
+Here is how you can obtain R and R studio (a user-friendly environment for running R):
+
+		https://www.youtube.com/watch?v=dRH-SasnzzU
+
+Similar to python, there are many tutorials for R, but one that many trainees in the lab have found useful is: 
+		
 		https://www.datacamp.com/courses/free-introduction-to-r
 
+Here are videos for how to do basic computation in R, and basic programming in R:
 
+		https://www.youtube.com/watch?v=3xriAzqc-fw
+		https://www.youtube.com/watch?v=S6EVGoV8PpU		
