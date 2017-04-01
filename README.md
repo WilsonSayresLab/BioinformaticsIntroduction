@@ -54,7 +54,7 @@ Here are videos for how to do basic computation in R, and basic programming in R
 ## 4. Introduction to SSH and SFTP
 For many of the types of analysis we do, you won't be able to run the analyses on your local computer. Instead, you'll need to access a computer cluster. 
 
-First, you'll need ot make sure you have an account. For WilsonSayres lab members, please request an account on ASU Research Computing: https://researchcomputing.asu.edu 
+First, you'll need to make sure you have an account. For WilsonSayres lab members, please request an account on ASU Research Computing: https://researchcomputing.asu.edu 
 
 Second, you'll need to know how to get there.
 
@@ -71,7 +71,7 @@ a tutorial for how to access the ASU cluster via SSH using NoMachine:
 You may also want transfer files to/from the server. There are many ways to do this, but SFTP (Secure File Transfer Protocol) is one way. You can use a variety of tools, including MoabXterm (from above), the SFTP command line tools (https://linux.die.net/man/1/sftp), or a GUI-based SFTP program (people in the lab like FileZilla: https://filezilla-project.org and CyberDuck: https://cyberduck.io - both work for Mac or Windows). 
 
 ## 5. Batch Scripts
-Once you have an account on a cluster, you'll want to be able to run jobs. You may be tempted to run large jobs directly after logging in... don't. This is because of the strucutre of a cluster. Typically there is a login node where everyone goes when they log in to the cluster, and to submit jobs that will need a lot of time or memory, you'll need to write a batch script to submit your job into a queue to run on the compute nodes. Trying to run large jobs on the login node may use up all the memory on the login node, and kill everyone's experiences on the login nodes. To get your jobs to run, you'll need to make a batch script. 
+Once you have an account on the cluster, you'll want to be able to run jobs. You may be tempted to run large jobs directly after logging in... don't. This is because of the typical strucutre of a cluster. Typically there is a login node where everyone goes when they log in to the cluster, and compute nodes, where most of the computation happens. To submit jobs that will need a lot of time or memory, you'll need to write a batch script to submit your job into a queue to run on the compute nodes. Trying to run large jobs on the login node will usually result in an error and a warning message. To get your jobs to run, you'll need to make a batch script. 
 
 A batch/job script for SLURM (the Simple Linux Utility for Resource Management) will list information about who is submitting the script, how long it will take, what kind of memory it requires, if it should go in a special queue, and then the commands to run your script or program. 
 
