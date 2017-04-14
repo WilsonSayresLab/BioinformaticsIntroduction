@@ -35,6 +35,10 @@ There are many different languages that we can write code or scripts in for anal
 
 		https://www.codecademy.com/learn/python
 
+For advanced python, you can run through the Python Data Science Handbook: 
+
+		https://github.com/jakevdp/PythonDataScienceHandbook
+		
 ## 3. Introduction to R
 Other than working within the terminal (command line), and writing codes in python, the other key component to doing bioinformatics is being able to do statistics. For our lab, nearly all the statistical analysis we do will be in R. R is a "free software environment for statistical computing and graphics": https://www.r-project.org. 
 
@@ -50,6 +54,10 @@ Here are videos for how to do basic computation in R, and basic programming in R
 
 		https://www.youtube.com/watch?v=3xriAzqc-fw
 		https://www.youtube.com/watch?v=S6EVGoV8PpU		
+
+For advanced R practice, you can run through R for Data Science: 
+
+		http://r4ds.had.co.nz
 
 ## 4. Introduction to SSH and SFTP
 For many of the types of analysis we do, you won't be able to run the analyses on your local computer. Instead, you'll need to access a computer cluster. 
