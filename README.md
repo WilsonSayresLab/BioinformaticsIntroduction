@@ -78,7 +78,7 @@ a tutorial for how to access the ASU cluster via SSH using NoMachine:
 
 You may also want transfer files to/from the server. There are many ways to do this, but SFTP (Secure File Transfer Protocol) is one way. You can use a variety of tools, including MoabXterm (from above), the SFTP command line tools (https://linux.die.net/man/1/sftp), or a GUI-based SFTP program (people in the lab like FileZilla: https://filezilla-project.org and CyberDuck: https://cyberduck.io - both work for Mac or Windows). 
 
-## 5. Batch Scripts
+## 5. Batch scripts
 Once you have an account on the cluster, you'll want to be able to run jobs. You may be tempted to run large jobs directly after logging in... don't. This is because of the typical strucutre of a cluster. Typically there is a login node where everyone goes when they log in to the cluster, and compute nodes, where most of the computation happens. To submit jobs that will need a lot of time or memory, you'll need to write a batch script to submit your job into a queue to run on the compute nodes. Trying to run large jobs on the login node will usually result in an error and a warning message. To get your jobs to run, you'll need to make a batch script. 
 
 A batch/job script for SLURM (the Simple Linux Utility for Resource Management) will list information about who is submitting the script, how long it will take, what kind of memory it requires, if it should go in a special queue, and then the commands to run your script or program. 
