@@ -91,3 +91,17 @@ And here is a SLURM Quick Start Tutorial:
 
 		http://www.ceci-hpc.be/slurm_tutorial.html
 
+## 6. Git and Github
+Finally we get to the page you're actually on! Git and Github (while separate) are often used together to organize code for projects, allow collaborators to contribute to the project, and most importantly, manage multiple versions of code/documents. We will use Git and GitHub for our projects in lab. While most of the commands are fairly straitforward Git/GitHub uses specific terminology that you'll need to familiarize yourself with. 
+
+Here is an intro to Git and GitHub: 
+
+		http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+Here is a "hello world" tutorial for GitHub (you don't need to know how to program to do this tutorial):
+
+		https://guides.github.com/activities/hello-world/
+
+And are some GitHub guides:
+
+		https://guides.github.com
