@@ -105,3 +105,13 @@ Here is a "hello world" tutorial for GitHub (you don't need to know how to progr
 And are some GitHub guides:
 
 		https://guides.github.com
+
+## 7. Secure File Transfer 
+When you are working on a cluster, you will at some point want to transfer files from your local computer to the cluster or from the cluster to your computer. You can do this using SFTP from the command line, or using a SFTP graphical user interface too.  
+
+Common SFTP GUIs are CyberDuck: 
+
+		https://cyberduck.io/
+And FileZilla: 
+
+		https://cyberduck.io/
