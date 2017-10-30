@@ -126,3 +126,15 @@ Common SFTP GUIs are CyberDuck:
 And FileZilla: 
 
 		https://cyberduck.io/
+
+## 9. Snakemake 
+One of the first rules of bioinformatics is that it is (nearly) always worth the time to make your analysis reproducible. Snakemake can help you with reproducible analyses. 
+
+You can start out with this video: 
+
+		https://youtu.be/naRvlRpXLe8
+
+And this tutorial:
+
+		http://slowkow.com/notes/snakemake-tutorial/
+
