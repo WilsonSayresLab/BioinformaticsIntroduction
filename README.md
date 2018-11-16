@@ -70,6 +70,10 @@ For advanced R practice, you can run through R for Data Science:
 
 		http://r4ds.had.co.nz
 
+Or you can work in R studio using the swirl R package: 
+
+		https://swirlstats.com/students.html
+
 ## 5. Introduction to SSH and SFTP
 For many of the types of analysis we do, you won't be able to run the analyses on your local computer. Instead, you'll need to access a computer cluster. 
 
