@@ -73,6 +73,10 @@ Here are videos for how to do basic computation in R, and basic programming in R
 For advanced R practice, you can run through R for Data Science: 
 
 		http://r4ds.had.co.nz
+		
+R for Data Science solutions are available here:
+
+		https://jrnold.github.io/r4ds-exercise-solutions/
 
 Or you can work in R studio using the swirl R package: 
 
@@ -133,14 +137,14 @@ Common SFTP GUIs are CyberDuck:
 		https://cyberduck.io/
 And FileZilla: 
 
-		https://cyberduck.io/
+		https://filezilla-project.org/
 
 ## 9. Snakemake 
 One of the first rules of bioinformatics is that it is (nearly) always worth the time to make your analysis reproducible. Snakemake can help you with reproducible analyses. 
 
 You can start out with this video: 
 
-		https://youtu.be/naRvlRpXLe8
+		https://youtu.be/8xnm_RKkycQ
 
 And this tutorial:
 
