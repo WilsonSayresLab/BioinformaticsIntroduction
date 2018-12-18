@@ -49,7 +49,11 @@ There are many different languages that we can write code or scripts in for anal
 For advanced python, you can run through the Python Data Science Handbook: 
 
 		https://github.com/jakevdp/PythonDataScienceHandbook
-		
+
+For visualizing what your python code is actually doing: 
+
+		http://pythontutor.com/visualize.html#mode=display
+
 ## 4. Introduction to R
 Other than working within the terminal (command line), and writing codes in python, the other key component to doing bioinformatics is being able to do statistics. For our lab, nearly all the statistical analysis we do will be in R. R is a "free software environment for statistical computing and graphics": https://www.r-project.org. 
 
