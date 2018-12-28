@@ -1,3 +1,6 @@
+WilsonSayresLab organization is no longer updated. Please go to:
+https://github.com/SexChrLab/BioinformaticsIntroduction/
+
 # Bioinformatics Introduction
 
 Here we compile our best practices for introducing new trainees to computational biology.
