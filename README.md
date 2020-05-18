@@ -41,10 +41,13 @@ Alternatively you may want a GUI-based text editor, like Sublime:
 
 		https://www.sublimetext.com/
 
+Or Atom:
+		https://atom.io/
+
 ## 3. Introduction to python
 There are many different languages that we can write code or scripts in for analyzing our data. One of the most commonly used langauges in bioinfomatics is python. The tutorial at codecademy can help you get started with learning python syntax, though there are many other places to learn coding in python.
 
-		https://www.codecademy.com/learn/python
+		https://www.codecademy.com/learn/learn-python-3
 
 For advanced python, you can run through the Python Data Science Handbook: 
 
@@ -64,6 +67,10 @@ Here is how you can obtain R and R studio (a user-friendly environment for runni
 Similar to python, there are many tutorials for R, but one that many trainees in the lab have found useful is: 
 		
 		https://www.datacamp.com/courses/free-introduction-to-r
+
+Alternatively, Data Carpentry has in Intro to R course:
+
+		http://datacarpentry.org/R-ecology-lesson/index.html
 
 Here are videos for how to do basic computation in R, and basic programming in R:
 
@@ -150,3 +157,19 @@ And this tutorial:
 
 		http://slowkow.com/notes/snakemake-tutorial/
 
+
+## 10. R Shiny
+It can be useful to create interactive plots for your data. One way to do this is with R Shiny.
+
+		https://shiny.rstudio.com/tutorial/
+
+## 11. Databases - MySQL
+Sometimes you may want to create or interact with databases in R.
+
+Here is an introduction in creating MySQL databases and querying them with R:
+
+		https://programminghistorian.org/en/lessons/getting-started-with-mysql-using-r
+
+And some information on R Shiny database basics:
+
+		https://shiny.rstudio.com/articles/overview.html
