@@ -1,3 +1,7 @@
+This parent repo is no longer maintained. The fork currently being maintained is here:
+https://github.com/e-hutchins/BioinformaticsIntroduction
+
+
 # Bioinformatics Introduction
 
 Here we compile our best practices for introducing new trainees to computational biology.
